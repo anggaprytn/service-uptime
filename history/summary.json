@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1472,
-    "timeDay": 1472,
-    "timeWeek": 1472,
-    "timeMonth": 1472,
-    "timeYear": 1472,
+    "time": 1637,
+    "timeDay": 1637,
+    "timeWeek": 1637,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2489,
-    "timeDay": 2489,
-    "timeWeek": 2489,
-    "timeMonth": 2489,
-    "timeYear": 2489,
+    "time": 2250,
+    "timeDay": 2250,
+    "timeWeek": 2250,
+    "timeMonth": 2250,
+    "timeYear": 2250,
     "dailyMinutesDown": {}
   },
   {
@@ -41,17 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/anggaprytn.com.ico",
     "slug": "anggaprytn",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 721,
     "timeDay": 721,
     "timeWeek": 721,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-07": 0
+    }
   },
   {
     "name": "CodePush Cudo",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 917,
-    "timeDay": 917,
-    "timeWeek": 917,
-    "timeMonth": 917,
-    "timeYear": 917,
+    "time": 990,
+    "timeDay": 990,
+    "timeWeek": 990,
+    "timeMonth": 990,
+    "timeYear": 990,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3446,
-    "timeDay": 3446,
-    "timeWeek": 3446,
-    "timeMonth": 3446,
-    "timeYear": 3446,
+    "time": 2704,
+    "timeDay": 2704,
+    "timeWeek": 2704,
+    "timeMonth": 2704,
+    "timeYear": 2704,
     "dailyMinutesDown": {}
   }
 ]
