@@ -40,19 +40,19 @@
     "url": "https://anggaprytn.com",
     "icon": "https://icons.duckduckgo.com/ip3/anggaprytn.com.ico",
     "slug": "anggaprytn",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 721,
-    "timeDay": 721,
-    "timeWeek": 721,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "status": "up",
+    "uptime": "83.33%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "83.33%",
+    "uptimeMonth": "83.33%",
+    "uptimeYear": "83.33%",
+    "time": 703,
+    "timeDay": 703,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-08-07": 0
+      "2025-08-07": 9
     }
   },
   {
