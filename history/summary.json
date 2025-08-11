@@ -22,19 +22,19 @@
     "url": "https://smartpatrol-dev.cudo.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/smartpatrol-dev.cudo.co.id.ico",
     "slug": "smart-patrol",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1792,
-    "timeDay": 1289,
-    "timeWeek": 1792,
-    "timeMonth": 1792,
-    "timeYear": 1792,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 1756,
+    "timeDay": 1357,
+    "timeWeek": 1756,
+    "timeMonth": 1756,
+    "timeYear": 1756,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 46
     }
   },
   {
