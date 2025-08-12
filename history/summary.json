@@ -62,19 +62,19 @@
     "url": "https://codepush.cudo.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/codepush.cudo.co.id.ico",
     "slug": "code-push-cudo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3496,
-    "timeDay": 12486,
-    "timeWeek": 3496,
-    "timeMonth": 3496,
-    "timeYear": 3496,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 3230,
+    "timeDay": 8601,
+    "timeWeek": 3230,
+    "timeMonth": 3230,
+    "timeYear": 3230,
     "dailyMinutesDown": {
-      "2025-08-12": 0
+      "2025-08-12": 15
     }
   },
   {
