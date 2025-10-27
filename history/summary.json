@@ -4,9 +4,9 @@
     "url": "https://fleet.bgn.go.id/fe/login",
     "icon": "https://icons.duckduckgo.com/ip3/fleet.bgn.go.id.ico",
     "slug": "fleet-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1272,
     "timeYear": 1429,
     "dailyMinutesDown": {
+      "2025-10-27": 0,
       "2025-10-17": 12,
       "2025-09-25": 10
     }
@@ -100,12 +101,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.86%",
     "time": 1644,
     "timeDay": 1253,
-    "timeWeek": 2144,
+    "timeWeek": 2040,
     "timeMonth": 1464,
     "timeYear": 1644,
     "dailyMinutesDown": {
