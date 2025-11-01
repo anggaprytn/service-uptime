@@ -1,7 +1,7 @@
 url: https://codepush.cudo.co.id/
-status: up
-code: 200
-responseTime: 1140
-lastUpdated: 2025-11-01T16:12:42.663Z
+status: down
+code: 502
+responseTime: 13202
+lastUpdated: 2025-11-01T16:49:48.215Z
 startTime: 2025-08-07T06:37:20.919Z
 generator: Upptime <https://github.com/upptime/upptime>
