@@ -51,9 +51,9 @@
     "url": "https://anggaprytn.com",
     "icon": "https://icons.duckduckgo.com/ip3/anggaprytn.com.ico",
     "slug": "anggaprytn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -63,6 +63,7 @@
     "timeMonth": 731,
     "timeYear": 749,
     "dailyMinutesDown": {
+      "2025-11-21": 0,
       "2025-08-21": 654,
       "2025-08-18": 11,
       "2025-08-07": 9
