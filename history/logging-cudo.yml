@@ -1,7 +1,7 @@
 url: https://logging.cudo.co.id/login
-status: down
-code: 502
-responseTime: 8387
-lastUpdated: 2025-11-25T00:57:10.127Z
+status: up
+code: 200
+responseTime: 2608
+lastUpdated: 2025-11-25T01:37:11.840Z
 startTime: 2025-08-07T06:37:22.188Z
 generator: Upptime <https://github.com/upptime/upptime>
